@@ -1,0 +1,40 @@
+.ourteam-Section{
+    padding: 10rem;
+}
+.ourteam-Section h2{
+    padding: 2rem;
+    font-size: 2rem;
+    text-align: center;
+}
+.ourteam-Section h2 {
+    color:  black;
+    background-color: rgb(84, 164, 164);
+}
+.ourteam-inner{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    text-align: center;
+    gap: 15px;
+    background-color: rgb(233, 76, 19);
+
+}
+.ourteam-inner.section-box{
+    flex:1 1  2px;
+    
+}
+.ourteam-inner.section-box img {
+    background-color: rgb(133, 19, 233);
+    width: 100%;
+
+}
+.section-box h3{
+    padding: 1rem 0;
+    font-size: 2rem;
+ background-color: aquamarine;
+}
+.team-social-link{
+    color: var(--fontcolor);
+    font-size: 2rem;
+    padding: 1rem 0;
+}
