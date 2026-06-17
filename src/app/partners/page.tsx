@@ -14,7 +14,8 @@ import {
   CheckCircle2,
   Lock,
   X,
-  Filter
+  Filter,
+  Activity
 } from "lucide-react";
 import Image from "next/image";
 import { useState, useMemo } from "react";
